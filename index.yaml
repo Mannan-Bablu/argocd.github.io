@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  abdul:
+  - apiVersion: v2
+    created: "2023-06-01T16:17:51.6107324+05:30"
+    digest: 93ced75f090ba45b1ce26eeaad17f835729845df58885ee9d762beb1576d8c9f
+    maintainers:
+    - email: amohammadabdul@evoketechnologies
+      name: abdul
+    name: abdul
+    urls:
+    - abdul-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-06-01T16:17:51.6020123+05:30"
