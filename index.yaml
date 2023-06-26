@@ -9,6 +9,6 @@ entries:
       name: abdul
     name: abdul
     urls:
-    - abdul-1.0.0.tgz
+    - https://mannan-bablu.github.io/argocd.github.io/abdul-1.0.0.tgz
     version: 1.0.0
 generated: "2023-06-01T16:17:51.6020123+05:30"
